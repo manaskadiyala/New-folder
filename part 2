@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  </head>
+  <body>
+    <p>co<sub>2</sub></p>
+    <p>a<sup>2</sup></p>
+<div class="container">
+      <h1>highlight text</h1>
+      <p>use the mark element to <mark>highlight</mark> text.</p>
+       </div>
+
+    <div class="container">
+        <h1>code sunippets</h1>
+        <p>inline sunipeets of code should be embeded in the code element </p>
+        <p>the following elements: <code>span</code> <code>section</code>, and <code>div</code> definesa section in a document  </p.>
+
+
+            
